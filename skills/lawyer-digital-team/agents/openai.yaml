@@ -1,0 +1,4 @@
+interface:
+  display_name: "律师数字团队"
+  short_description: "适用于中国大陆刑事、民事、行政诉讼和非诉事项的分类办案与岗位协作"
+  default_prompt: "请使用 $lawyer-digital-team，根据我方身份、事项类型、程序阶段和现有材料组织办案工作。"
