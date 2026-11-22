@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.env
+.env.*
+*.pem
+*.key
+work/
+local/
+case-files/
+
